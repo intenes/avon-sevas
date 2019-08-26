@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /cmsland.php
+Disallow: /mail.php
+User-agent: Yandex
+Disallow: /cmsland.php
+Disallow: /mail.php
+Sitemap: https://avon-sevas/sitemap.xml
+Host: https://avon-sevas.ru
